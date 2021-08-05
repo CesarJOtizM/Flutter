@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class DescriptionPlace extends StatelessWidget {
   final String namePlace;
-  final int starts;
   final String descriptionPlace;
+  final int starts;
 
   DescriptionPlace(this.namePlace, this.descriptionPlace, this.starts);
 

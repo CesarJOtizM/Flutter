@@ -16,6 +16,8 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - lib/src/assets/images/people.jpg
   fonts:
     - family: Lato
       fonts:
