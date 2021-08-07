@@ -18,6 +18,10 @@ flutter:
   uses-material-design: true
   assets:
     - lib/src/assets/images/people.jpg
+    - lib/src/assets/images/beach_palm.jpeg
+    - lib/src/assets/images/mountain_stars.jpeg
+    - lib/src/assets/images/mountain.jpeg
+    - lib/src/assets/images/river.jpeg
   fonts:
     - family: Lato
       fonts:
